@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Dessenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-07-23:36:47.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-07-23:36:47.505Z"
+    },
+    {
+      "id": 3,
+      "description": "RocketSeat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 2000,
+      "createdAt": "2022-07-23:36:47.505Z"
+    },
+    {
+      "description": "Apostas",
+      "category": "Venda",
+      "price": 10,
+      "type": "income",
+      "createdAt": "2023-02-02T20:20:20.580Z",
+      "id": 4
+    },
+    {
+      "description": "Iorgurte de Banana",
+      "category": "alimentação",
+      "price": 4,
+      "type": "outcome",
+      "createdAt": "2023-02-02T20:29:40.219Z",
+      "id": 5
+    }
+  ]
+}
